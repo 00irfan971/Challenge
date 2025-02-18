@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "container:../..">
+   </FileRef>
+   <FileRef
+      location = "group:Package.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Main.swift">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "View">
+      <FileRef
+         location = "group:../../../SwiftUIView.swift">
+      </FileRef>
+      <FileRef
+         location = "group:/Users/macbookpro/Documents/IOS dev/Challenge/WordView.swift">
+      </FileRef>
+   </Group>
+</Workspace>

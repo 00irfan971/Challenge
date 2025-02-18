@@ -1,0 +1,702 @@
+[
+    {
+        "word": "barley",
+        "definition": "Barley is a type of cereal grain that belongs to the species Hordeum vulgare",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 1
+    },
+    {
+        "word": "calorie",
+        "definition": "A calorie is a unit of measurement for energy",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 2
+    },
+    {
+        "word": "hemp",
+        "definition": "Hemp is a variety of the Cannabis sativa plant that is cultivated specifically for industrial use",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 3
+    },
+    {
+        "word": "incisor",
+        "definition": "An incisor is a type of tooth characterized by a thin, flat shape and a sharp edge, primarily used for cutting or slicing food",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 4
+    },
+    {
+        "word": "breadwinner",
+        "definition": "The term breadwinner refers to a person who earns the primary income for a household or family",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 5
+    },
+    {
+        "word": "emulsifier",
+        "definition": "An emulsifier is a substance that helps to mix two or more liquids that typically do not mix well, such as oil and water",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 6
+    },
+    {
+        "word": "fireplace",
+        "definition": "A fireplace is a structure, usually built into the wall of a room, that is designed to contain a fire for heating, cooking, or ambiance",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 7
+    },
+    {
+        "word": "hibernation",
+        "definition": "Hibernation is a state of inactivity and metabolic depression in animals, typically occurring during winter months",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 8
+    },
+    {
+        "word": "housekeeper",
+        "definition": "A housekeeper is a person employed to manage the domestic duties of a household, which may include cleaning, cooking, laundry, and other tasks related to the upkeep and organization of the home",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 9
+    },
+    {
+        "word": "ablactation",
+        "definition": "Ablactation refers to the process of weaning a child or animal from breastfeeding or the process of stopping milk production in a nursing mother",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 10
+    },
+    {
+        "word": "adulteration",
+        "definition": "Adulteration refers to the act of making something poorer in quality by the addition of another substance",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 11
+    },
+    {
+        "word": "agriculturalist",
+        "definition": "An agriculturalist is a person who practices or is involved in agriculture, which includes the cultivation of crops and the rearing of animals for food, fiber, and other products",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 12
+    },
+    {
+        "word": "alkalizer",
+        "definition": "The term alkalizer refers to a substance or agent that raises the pH level of a solution, making it more alkaline (less acidic)",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 13
+    },
+    {
+        "word": "ambergris",
+        "definition": "Ambergris is a waxy, solid substance that originates in the intestines of sperm whales",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 14
+    },
+    {
+        "word": "aphrodisiac",
+        "definition": "An aphrodisiac is a substance that is believed to increase sexual desire, sexual attraction, or sexual pleasure",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 15
+    },
+    {
+        "word": "aquaculture",
+        "definition": "Aquaculture refers to the cultivation of aquatic organisms, such as fish, shellfish, and plants, in controlled environments for commercial purposes, food production, or restoration of habitats",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 16
+    },
+    {
+        "word": "arrowroot",
+        "definition": "Arrowroot is a starchy substance obtained from the root of several tropical plants, particularly the Maranta arundinacea",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 17
+    },
+    {
+        "word": "asafetida",
+        "definition": "Asafetida is a strong-smelling resin obtained from the roots of several species of Ferula, a plant in the umbellifer family",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 18
+    },
+    {
+        "word": "bactericide",
+        "definition": "A bactericide is a substance that kills bacteria",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 19
+    },
+    {
+        "word": "breadfruit",
+        "definition": "Breadfruit is a tropical fruit that belongs to the species Artocarpus altilis",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 20
+    },
+    {
+        "word": "buttermilk",
+        "definition": "Buttermilk is a fermented dairy product that is traditionally the liquid left after churning butter out of cream",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 21
+    },
+    {
+        "word": "casserole",
+        "definition": "A 'casserole' is a type of dish that is both a cooking vessel and a meal",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 22
+    },
+    {
+        "word": "cheeseburger",
+        "definition": "A cheeseburger is a type of sandwich consisting of a cooked ground beef patty that is usually placed inside a sliced bun and topped with cheese, typically American cheese",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 23
+    },
+    {
+        "word": "coriander",
+        "definition": "Coriander is a noun that refers to a flowering plant (Coriandrum sativum) in the family Apiaceae",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 24
+    },
+    {
+        "word": "croquette",
+        "definition": "A croquette is a small roll or ball of cooked food, often made from mashed potatoes, meat, fish, or vegetables, which is breaded and then deep-fried or baked",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 25
+    },
+    {
+        "word": "digestibility",
+        "definition": "Digestibility refers to the ease with which food can be broken down and absorbed by the body during the digestive process",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 26
+    },
+    {
+        "word": "dysentery",
+        "definition": "Dysentery is an intestinal infection characterized by inflammation of the intestines, leading to severe diarrhea that often contains blood or mucus",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 27
+    },
+    {
+        "word": "fermentation",
+        "definition": "Fermentation is a metabolic process in which microorganisms, such as yeasts or bacteria, convert sugars into acids, gases, or alcohol",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 28
+    },
+    {
+        "word": "gastroenteritis",
+        "definition": "Gastroenteritis is a medical condition characterized by inflammation of the stomach and intestines",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 29
+    },
+    {
+        "word": "gastronomy",
+        "definition": "Gastronomy is the art or science of good eating and the study of food and culture",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 30
+    },
+    {
+        "word": "halitosis",
+        "definition": "Halitosis is a medical term that refers to chronic bad breath or an unpleasant odor emanating from the mouth",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 31
+    },
+    {
+        "word": "kitchenette",
+        "definition": "A kitchenette is a small kitchen or a compact cooking area that typically includes basic appliances such as a stove, microwave, sink, and refrigerator",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 32
+    },
+    {
+        "word": "malnutrition",
+        "definition": "Malnutrition refers to a condition that arises from an insufficient or unbalanced intake of nutrients, which can lead to various health problems",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 33
+    },
+    {
+        "word": "margarine",
+        "definition": "Margarine is a type of spread and cooking fat made from vegetable oils or animal fats, often combined with water, salt, emulsifiers, and other ingredients",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 34
+    },
+    {
+        "word": "nutritionist",
+        "definition": "A nutritionist is a professional who specializes in the study of nutrition, which involves understanding the relationship between diet, health, and wellness",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 35
+    },
+    {
+        "word": "oesophagus",
+        "definition": "The term oesophagus (also spelled esophagus in American English) refers to the muscular tube in vertebrates that connects the throat (pharynx) with the stomach",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 36
+    },
+    {
+        "word": "pasta",
+        "definition": "Pasta is a type of Italian food made from wheat flour and water, typically shaped into various forms and cooked by boiling",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 37
+    },
+    {
+        "word": "pickling",
+        "definition": "Pickling is the process of preserving food by anaerobic fermentation in brine or immersion in vinegar",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 38
+    },
+    {
+        "word": "sodium",
+        "definition": "Sodium is a chemical element with the symbol Na and atomic number 11, commonly found in nature as a salt",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 39
+    },
+    {
+        "word": "sour",
+        "definition": "Sour refers to a taste sensation that is typically sharp, tangy, or acidic, often associated with foods like lemons and vinegar",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 40
+    },
+    {
+        "word": "sourdough",
+        "definition": "Sourdough is a type of bread made from a fermented dough that uses naturally occurring lactobacilli and yeast",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 41
+    },
+    {
+        "word": "tofu",
+        "definition": "Tofu is a food made from soybeans, produced by coagulating soy milk and pressing the resulting curds into soft white blocks",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 42
+    },
+    {
+        "word": "truffle",
+        "definition": "A truffle is a type of edible fungus that grows underground in association with the roots of certain trees, highly prized for its unique flavor and aroma",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 43
+    },
+    {
+        "word": "vegetable",
+        "definition": "A vegetable is a plant or part of a plant that is consumed by humans or animals as food, typically as part of a savory dish",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 44
+    },
+    {
+        "word": "vinegar",
+        "definition": "Vinegar is a sour liquid produced by the fermentation of ethanol, commonly used as a condiment or preservative",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 45
+    },
+    {
+        "word": "whisk",
+        "definition": "A whisk is a kitchen utensil used for whipping, beating, or stirring ingredients, typically made of wire loops attached to a handle",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 46
+    },
+    {
+        "word": "zucchini",
+        "definition": "Zucchini is a type of summer squash that is typically green and cylindrical in shape, commonly used in cooking and baking",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 47
+    },
+    {
+        "word": "sauté",
+        "definition": "Sauté refers to a cooking method in which food is cooked quickly in a small amount of oil or fat over relatively high heat",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 48
+    },
+    {
+        "word": "simmer",
+        "definition": "Simmer refers to a cooking technique in which food is cooked in liquid at a temperature just below boiling, allowing for gentle cooking",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 49
+    },
+    {
+        "word": "sift",
+        "definition": "To sift means to pass dry ingredients through a sieve or sifter to remove lumps and incorporate air, resulting in a finer texture",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 50
+    },
+    {
+        "word": "tenderize",
+        "definition": "To tenderize means to make meat or other food items softer and easier to chew, often by using a mallet, marinade, or other methods",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 51
+    },
+    {
+        "word": "whip",
+        "definition": "To whip means to beat ingredients, such as cream or egg whites, rapidly to incorporate air and increase volume, resulting in a light and fluffy texture",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 52
+    },
+    {
+        "word": "syrup",
+        "definition": "Syrup is a thick, viscous liquid made by dissolving sugar in water, often flavored or infused with other ingredients",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 53
+    },
+    {
+        "word": "saffron",
+        "definition": "Saffron is a spice derived from the flower of Crocus sativus, commonly known as the saffron crocus",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 54
+    },
+    {
+        "word": "quinoa",
+        "definition": "Quinoa is a grain crop grown primarily for its edible seeds, which are high in protein and gluten-free",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 55
+    },
+    {
+        "word": "pasta",
+        "definition": "Pasta is a type of Italian food made from wheat flour and water, typically shaped into various forms and cooked by boiling",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 56
+    },
+    {
+        "word": "pickling",
+        "definition": "Pickling is the process of preserving food by anaerobic fermentation in brine or immersion in vinegar",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 57
+    },
+    {
+        "word": "pesticide",
+        "definition": "A pesticide is a chemical substance used to kill or control pests, including insects, weeds, fungi, and other organisms that can harm crops or livestock",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 58
+    },
+    {
+        "word": "sodium",
+        "definition": "Sodium is a chemical element with the symbol Na and atomic number 11, commonly found in nature as a salt",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 59
+    },
+    {
+        "word": "sorcery",
+        "definition": "Sorcery refers to the use of supernatural powers or magic, often associated with the manipulation of natural forces or the invocation of spirits",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 60
+    },
+    {
+        "word": "sourdough",
+        "definition": "Sourdough is a type of bread made from a fermented dough that uses naturally occurring lactobacilli and yeast",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 61
+    },
+    {
+        "word": "tofu",
+        "definition": "Tofu is a food made from soybeans, produced by coagulating soy milk and pressing the resulting curds into soft white blocks",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 62
+    },
+    {
+        "word": "truffle",
+        "definition": "A truffle is a type of edible fungus that grows underground in association with the roots of certain trees, highly prized for its unique flavor and aroma",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 63
+    },
+    {
+        "word": "vegetable",
+        "definition": "A vegetable is a plant or part of a plant that is consumed by humans or animals as food, typically as part of a savory dish",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 64
+    },
+    {
+        "word": "vinegar",
+        "definition": "Vinegar is a sour liquid produced by the fermentation of ethanol, commonly used as a condiment or preservative",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 65
+    },
+    {
+        "word": "whisk",
+        "definition": "A whisk is a kitchen utensil used for whipping, beating, or stirring ingredients, typically made of wire loops attached to a handle",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 66
+    },
+    {
+        "word": "zucchini",
+        "definition": "Zucchini is a type of summer squash that is typically green and cylindrical in shape, commonly used in cooking and baking",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 67
+    },
+    {
+        "word": "sauté",
+        "definition": "Sauté refers to a cooking method in which food is cooked quickly in a small amount of oil or fat over relatively high heat",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 68
+    },
+    {
+        "word": "simmer",
+        "definition": "Simmer refers to a cooking technique in which food is cooked in liquid at a temperature just below boiling, allowing for gentle cooking",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 69
+    },
+    {
+        "word": "sift",
+        "definition": "To sift means to pass dry ingredients through a sieve or sifter to remove lumps and incorporate air, resulting in a finer texture",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 70
+    },
+    {
+        "word": "tenderize",
+        "definition": "To tenderize means to make meat or other food items softer and easier to chew, often by using a mallet, marinade, or other methods",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 71
+    },
+    {
+        "word": "whip",
+        "definition": "To whip means to beat ingredients, such as cream or egg whites, rapidly to incorporate air and increase volume, resulting in a light and fluffy texture",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 72
+    },
+    {
+        "word": "syrup",
+        "definition": "Syrup is a thick, viscous liquid made by dissolving sugar in water, often flavored or infused with other ingredients",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 73
+    },
+    {
+        "word": "saffron",
+        "definition": "Saffron is a spice derived from the flower of Crocus sativus, commonly known as the saffron crocus",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 74
+    },
+    {
+        "word": "quinoa",
+        "definition": "Quinoa is a grain crop grown primarily for its edible seeds, which are high in protein and gluten-free",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 75
+    },
+    {
+        "word": "pasta",
+        "definition": "Pasta is a type of Italian food made from wheat flour and water, typically shaped into various forms and cooked by boiling",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 76
+    },
+    {
+        "word": "pickling",
+        "definition": "Pickling is the process of preserving food by anaerobic fermentation in brine or immersion in vinegar",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 77
+    },
+    {
+        "word": "pesticide",
+        "definition": "A pesticide is a chemical substance used to kill or control pests, including insects, weeds, fungi, and other organisms that can harm crops or livestock",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 78
+    },
+    {
+        "word": "sodium",
+        "definition": "Sodium is a chemical element with the symbol Na and atomic number 11, commonly found in nature as a salt",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 79
+    },
+    {
+        "word": "sorcery",
+        "definition": "Sorcery refers to the use of supernatural powers or magic, often associated with the manipulation of natural forces or the invocation of spirits",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 80
+    },
+    {
+        "word": "sourdough",
+        "definition": "Sourdough is a type of bread made from a fermented dough that uses naturally occurring lactobacilli and yeast",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 81
+    },
+    {
+        "word": "tofu",
+        "definition": "Tofu is a food made from soybeans, produced by coagulating soy milk and pressing the resulting curds into soft white blocks",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 82
+    },
+    {
+        "word": "truffle",
+        "definition": "A truffle is a type of edible fungus that grows underground in association with the roots of certain trees, highly prized for its unique flavor and aroma",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 83
+    },
+    {
+        "word": "vegetable",
+        "definition": "A vegetable is a plant or part of a plant that is consumed by humans or animals as food, typically as part of a savory dish",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 84
+    },
+    {
+        "word": "vinegar",
+        "definition": "Vinegar is a sour liquid produced by the fermentation of ethanol, commonly used as a condiment or preservative",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 85
+    },
+    {
+        "word": "whisk",
+        "definition": "A whisk is a kitchen utensil used for whipping, beating, or stirring ingredients, typically made of wire loops attached to a handle",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 86
+    },
+    {
+        "word": "zucchini",
+        "definition": "Zucchini is a type of summer squash that is typically green and cylindrical in shape, commonly used in cooking and baking",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 87
+    },
+    {
+        "word": "sauté",
+        "definition": "Sauté refers to a cooking method in which food is cooked quickly in a small amount of oil or fat over relatively high heat",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 88
+    },
+    {
+        "word": "simmer",
+        "definition": "Simmer refers to a cooking technique in which food is cooked in liquid at a temperature just below boiling, allowing for gentle cooking",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 89
+    },
+    {
+        "word": "sift",
+        "definition": "To sift means to pass dry ingredients through a sieve or sifter to remove lumps and incorporate air, resulting in a finer texture",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 90
+    },
+    {
+        "word": "tenderize",
+        "definition": "To tenderize means to make meat or other food items softer and easier to chew, often by using a mallet, marinade, or other methods",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 91
+    },
+    {
+        "word": "whip",
+        "definition": "To whip means to beat ingredients, such as cream or egg whites, rapidly to incorporate air and increase volume, resulting in a light and fluffy texture",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 92
+    },
+    {
+        "word": "syrup",
+        "definition": "Syrup is a thick, viscous liquid made by dissolving sugar in water, often flavored or infused with other ingredients",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 93
+    },
+    {
+        "word": "saffron",
+        "definition": "Saffron is a spice derived from the flower of Crocus sativus, commonly known as the saffron crocus",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 94
+    },
+    {
+        "word": "quinoa",
+        "definition": "Quinoa is a grain crop grown primarily for its edible seeds, which are high in protein and gluten-free",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 95
+    },
+    {
+        "word": "pasta",
+        "definition": "Pasta is a type of Italian food made from wheat flour and water, typically shaped into various forms and cooked by boiling",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 96
+    },
+    {
+        "word": "pickling",
+        "definition": "Pickling is the process of preserving food by anaerobic fermentation in brine or immersion in vinegar",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 97
+    },
+    {
+        "word": "pesticide",
+        "definition": "A pesticide is a chemical substance used to kill or control pests, including insects, weeds, fungi, and other organisms that can harm crops or livestock",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 98
+    },
+    {
+        "word": "sodium",
+        "definition": "Sodium is a chemical element with the symbol Na and atomic number 11, commonly found in nature as a salt",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 99
+    },
+    {
+        "word": "sorcery",
+        "definition": "Sorcery refers to the use of supernatural powers or magic, often associated with the manipulation of natural forces or the invocation of spirits",
+        "category": "restaurant/food",
+        "Level": "Advanced",
+        "serial": 100
+    }
+]
