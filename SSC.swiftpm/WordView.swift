@@ -117,9 +117,9 @@ struct WordView: View {
                 }
             }
         }
-        .sheet(isPresented: $isSheetPresented) {
-            ContentView() // Content for the sheet
-        }
+       // .sheet(isPresented: $isSheetPresented) {
+        //    ContentView() // Content for the sheet
+        //}
     }
 
 }
